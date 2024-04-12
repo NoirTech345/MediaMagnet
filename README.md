@@ -1,5 +1,5 @@
 # MediaMagnet
-The MediaMagnet program is a convenient and efficient tool for downloading media content from YouTube. It offers flexible settings and user-friendly interface, making the downloading process as easy and convenient as possible.    Download video previews: This function allows you to download video previews from YouTube. Just paste the link to the video and the program will automatically download the preview.
+The MediaMagnet program is a convenient and efficient tool for downloading media content from YouTube. It offers flexible settings and user-friendly interface, making the downloading process as easy and convenient as possible.    Download video previews: This function allows you to download video previews from YouTube. Just paste the link to the video and the program will automatically download the preview/video/music
 
     Download video: With this function you can download videos from YouTube. The program offers a choice of video quality (240p, 360p, 480p, 720p) and you can choose which quality you want.
 
